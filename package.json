@@ -1,25 +1,25 @@
 {
-  "name": "bloggify-theme-light",
+  "name": "bloggify-theme-timeline",
   "version": "2.0.2",
-  "description": "A light and simple theme for Bloggify.",
+  "description": "A timeline and simple theme for Bloggify.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BloggifyThemes/light.git"
+    "url": "git+https://github.com/BloggifyThemes/timeline.git"
   },
   "keywords": [
     "bloggify",
     "theme",
-    "light"
+    "timeline"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BloggifyThemes/light/issues"
+    "url": "https://github.com/BloggifyThemes/timeline/issues"
   },
-  "homepage": "https://github.com/BloggifyThemes/light#readme",
+  "homepage": "https://github.com/BloggifyThemes/timeline#readme",
   "files": [
     "bin/",
     "app/",
