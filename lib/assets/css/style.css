@@ -1,0 +1,11 @@
+@import "./timeline.css";
+@import url("./tomorrow.css");
+@import url("./markdown.css");
+
+.hide {
+    display: none;
+}
+
+iframe {
+    max-width: 100%;
+}

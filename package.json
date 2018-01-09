@@ -1,0 +1,38 @@
+{
+  "name": "bloggify-theme-light",
+  "version": "2.0.2",
+  "description": "A light and simple theme for Bloggify.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BloggifyThemes/light.git"
+  },
+  "keywords": [
+    "bloggify",
+    "theme",
+    "light"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BloggifyThemes/light/issues"
+  },
+  "homepage": "https://github.com/BloggifyThemes/light#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json"
+  ],
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)"
+}
