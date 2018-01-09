@@ -1,6 +1,6 @@
 {
   "name": "bloggify-theme-timeline",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "description": "A timeline and simple theme for Bloggify.",
   "main": "lib/index.js",
   "scripts": {
